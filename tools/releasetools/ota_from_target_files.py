@@ -843,7 +843,7 @@ else if get_stage("%(bcb_dev)s") == "3/3" then
   script.Print("                                        ")
   script.Print("****************************************")
   script.Print("                                        ")
-  script.Print("   By Lokesh,Sanjheevi,Pranav,Yash      ")
+  script.Print("         By:Team Palladium              ")
   script.Print("                                        ")
   script.Print("   Happy Flashing // #StarkCelerity     ")
   script.Print("                                        ")
